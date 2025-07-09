@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Saraswati0612/ToDo_List/static/css/main.e93eb4e5.css",
-    "main.js": "/Saraswati0612/ToDo_List/static/js/main.4c188f96.js",
-    "index.html": "/Saraswati0612/ToDo_List/index.html",
-    "main.e93eb4e5.css.map": "/Saraswati0612/ToDo_List/static/css/main.e93eb4e5.css.map",
-    "main.4c188f96.js.map": "/Saraswati0612/ToDo_List/static/js/main.4c188f96.js.map"
+    "main.css": "/ToDo_List/static/css/main.e93eb4e5.css",
+    "main.js": "/ToDo_List/static/js/main.4c188f96.js",
+    "index.html": "/ToDo_List/index.html",
+    "main.e93eb4e5.css.map": "/ToDo_List/static/css/main.e93eb4e5.css.map",
+    "main.4c188f96.js.map": "/ToDo_List/static/js/main.4c188f96.js.map"
   },
   "entrypoints": [
     "static/css/main.e93eb4e5.css",
